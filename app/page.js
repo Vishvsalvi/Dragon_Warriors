@@ -83,7 +83,7 @@ export default function Home() {
 
             items: 1, // Set the number of items to display to 1
           }}
-          className="sm:mx-16 mx-4" // Set the height to 75% of the screen
+          className="sm:mx-16 mx-14" // Set the height to 75% of the screen
         >
           <CarouselContent className="rounded-md" >
             {images.map((item, index) => (

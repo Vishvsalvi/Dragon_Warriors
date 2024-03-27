@@ -73,7 +73,7 @@ const navLinks = [
           >
             <span className="sr-only">Open main menu</span>
 
-            {
+            {/* {
               isMobileMenuOpen ? (
                 <svg
               className="block h-6 w-6"
@@ -98,9 +98,9 @@ const navLinks = [
               </svg>
   
               )
-            }
+            } */}
             
-            {/* <svg
+             <svg
               className="block h-6 w-6"
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -111,7 +111,7 @@ const navLinks = [
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
             </svg>
 
-            <img className="w-6" src="/Images/cross.png" alt="multiply"/> */}
+          
 
           </button>
         </div>
