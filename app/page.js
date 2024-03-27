@@ -68,7 +68,7 @@ export default function Home() {
   const images = ["/Images/Image4.jpg", "/Images/Image11.jpg", "Images/Image12.jpg", "Images/Image10.jpg"]
 
   return (  
-    <main className="bg-neutral-950">
+    <main className="bg-neutral-950 overflow-hidden">
       {/* Hero section */}
 
       <section className="md:py-20 py-9  bg-neutral-950">
