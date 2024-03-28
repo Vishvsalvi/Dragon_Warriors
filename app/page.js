@@ -71,7 +71,7 @@ export default function Home() {
     <main className="bg-neutral-950 overflow-hidden">
       {/* Hero section */}
 
-      <section className="md:py-20 py-9  bg-neutral-950">
+      <section className="md:py-20 pt-9 bg-neutral-950">
 
       <div>
         {/* // 50% on small screens and 33% on larger screens. */}
@@ -104,7 +104,7 @@ export default function Home() {
       </section>
 
       <section  >
-        <div  className="mx-auto max-w-screen-xl px-4 py-20 sm:px-6 sm:py-12 lg:px-8 lg:py-28 ">
+        <div  className="mx-auto max-w-screen-xl px-4 py-15 sm:px-6 sm:py-12 lg:px-8 lg:py-28 ">
           <div className="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
             <div data-aos="fade-left" className="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
               <img
